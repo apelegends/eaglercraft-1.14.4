@@ -1,6 +1,80 @@
-# eaglercraft-1.14.4
-eaglercraft 1.14.4  https://github.com/Pizzaworkspace2/Eaglercraft-development-1.14 villages updated
-updated villages added firework and updated end dimension and also added elytra and fireworks follow on discord for bugs reporrt...
-# 😉 like 10% done
-villages updated iron golem...
-also added turtle shell hat and totem of undying.
+🏗️ Eaglercraft 1.14.4 - Java Port
+-
+This is a 1.8.8 client with 1.13 and 1.14 features added. This client is written in Java and ported to JS using the shell file on linux/codespace. All assets and AI are ripped from the real game. Will be merged with 1.12.2 (hopefully)
+
+**Note**: The new blocks and items on this client will probably not work on a real Minecraft 1.13+ server that is not eaglercraft only because the ids are no longer numerical after the great flattening in 1.13. So stick with eaglercraft for now!
+
+**Features**: Looms, barrels, sweet Berries, new title screen, stripped logs, bamboo, new textures and skins.
+
+**Play**: https://pizzaworkspace2.github.io/Minecraft-1.14.4
+
+Credits:
+-
+
+**mil1dude**
+- Published source code for 1.21 minecraft, (which needs some work). Credit to him for lots of the assets and models.
+
+**Pizzaworkspace2**
+- Adds blocks and items.
+- Updates textures and compiles the code.
+
+**RaveTek**
+- Now banned
+- Recovery of some of his repostiories gives us lots of new textures and assets for the game.
+
+**AR-DEV-1**
+- Has lots of 1.14.4 files uploaded in a deleted repository. (Recovered)
+
+ⓘ
+-
+**This Repo Contains**:
+- Source code both handwritten and taken from the real game for Eaglercraft 1.14.4
+- Decompiled Code
+- Everything you need to make your own clients and mods.
+- Everything to run deskstop runtime.
+- New Skins
+
+**This does not contain**
+- Files to host a server
+- New lax1dude optimizations
+- New Dependencies and systems.
+  
+**IN DEVOLOPMENT!!!!**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
